@@ -1,0 +1,36 @@
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.exe
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.pdb
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.xml
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\MiLibreria.dll
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\MiLibreria.pdb
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\MiLibreria.xml
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmCitaMedica.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmListado.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmPaciente.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmPrincipal.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.Resources.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.exe
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.xml
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.pdb
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.exe.config
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.exe
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.pdb
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.xml
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\MiLibreria.dll
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\MiLibreria.pdb
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\bin\Debug\MiLibreria.xml
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\CitaMedica.vbproj.AssemblyReference.cache
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmCitaMedica.resources
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmListado.resources
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmPaciente.resources
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmPrincipal.resources
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.Resources.resources
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\CitaMedica.vbproj.GenerateResource.cache
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\CitaMedica.vbproj.CoreCompileInputs.cache
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\CitaMedica.vbproj.Up2Date
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.exe
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.xml
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.pdb

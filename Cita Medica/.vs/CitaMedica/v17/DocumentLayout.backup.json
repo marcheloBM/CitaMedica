@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\march\\Desktop\\Aplicaciones\\JAVA\\1 Help\\Help JAVA\\Cita Medica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE07B0E-3E65-4359-A4AE-5EFE206D65A0}|MiLibreria\\MiLibreria.vbproj|d:\\users\\march\\desktop\\aplicaciones\\java\\1 help\\help java\\cita medica\\milibreria\\clsatencion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0CE07B0E-3E65-4359-A4AE-5EFE206D65A0}|MiLibreria\\MiLibreria.vbproj|solutionrelative:milibreria\\clsatencion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsAtencion.vb",
+              "DocumentMoniker": "D:\\Users\\march\\Desktop\\Aplicaciones\\JAVA\\1 Help\\Help JAVA\\Cita Medica\\MiLibreria\\clsAtencion.vb",
+              "RelativeDocumentMoniker": "MiLibreria\\clsAtencion.vb",
+              "ToolTip": "D:\\Users\\march\\Desktop\\Aplicaciones\\JAVA\\1 Help\\Help JAVA\\Cita Medica\\MiLibreria\\clsAtencion.vb",
+              "RelativeToolTip": "MiLibreria\\clsAtencion.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-15T05:47:45.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

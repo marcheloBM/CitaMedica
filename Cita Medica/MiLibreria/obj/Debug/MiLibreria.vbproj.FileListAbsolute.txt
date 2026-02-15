@@ -1,0 +1,30 @@
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\bin\Debug\MiLibreria.dll
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\bin\Debug\MiLibreria.pdb
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\bin\Debug\MiLibreria.xml
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\ResolveAssemblyReference.cache
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.Resources.resources
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\GenerateResource.read.1.tlog
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\GenerateResource.write.1.tlog
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.dll
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.xml
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\bin\Debug\MiLibreria.xml
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.Resources.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.xml
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\MiLibreria\obj\Debug\MiLibreria.pdb
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\bin\Debug\MiLibreria.dll
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\bin\Debug\MiLibreria.pdb
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\bin\Debug\MiLibreria.xml
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.vbproj.AssemblyReference.cache
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.Resources.resources
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.vbproj.GenerateResource.cache
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.vbproj.CoreCompileInputs.cache
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.dll
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.xml
+D:\Users\march\Desktop\Aplicaciones\JAVA\1 Help\Help JAVA\Cita Medica\MiLibreria\obj\Debug\MiLibreria.pdb

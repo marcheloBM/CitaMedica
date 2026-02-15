@@ -1,0 +1,20 @@
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmCitaMedica.resources
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmPaciente.resources
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmPrincipal.resources
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.Resources.resources
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.exe
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.pdb
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\Figueroa Piscoya Eder.xml
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\MiLibreria.dll
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\MiLibreria.pdb
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\bin\Debug\MiLibreria.xml
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.exe
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.xml
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.pdb
+E:\Archivos de la U\6° ciclo\Programación III\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa_Piscoya_Eder.frmListado.resources
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.exe
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.xml
+C:\Users\PROPIETARIO\Desktop\Figueroa Piscoya Eder\Figueroa Piscoya Eder\obj\x86\Debug\Figueroa Piscoya Eder.pdb
